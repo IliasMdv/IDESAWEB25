@@ -27,4 +27,4 @@ El **sistema de reservas** es uno de los componentes **más importantes** del si
 - Implementación de **recordatorios automáticos** por email 3 horas antes de la reserva.
 - Se debe incluir un sistema de **pago online integrado** para las reservas.
 
-[Volver al README principal](../README.md)
+[Volver al README principal](README.md)
