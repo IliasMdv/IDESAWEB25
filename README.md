@@ -69,5 +69,7 @@ Otras tecnologías:
 - [GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 - [Instalaciones](images/Montepalma.png)
 
+[Más información.](detalle-funcional.md)
+
 
 
