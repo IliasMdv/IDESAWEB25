@@ -66,7 +66,7 @@ Otras tecnologías:
 # Imágenes y referencias
 - Documentación oficial de Bootstrap
 - [GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-- [Instalaciones](https://images/Montepalma.png)
+- [Instalaciones](images/Montepalma.png)
 
 
 
