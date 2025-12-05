@@ -26,6 +26,7 @@ El proyecto será desarrollado con tecnologías web modernas y contará con un p
 
 ## Tecnologías previstas
 A continuación se listan las principales herramientas y tecnologías a utilizar:
+
 ### Frontend
 - HTML5 semántico.
 - CSS3 con Bootsrap o Tailwind.
@@ -39,11 +40,11 @@ A continuación se listan las principales herramientas y tecnologías a utilizar
 - API REST para comunicación frontend-backend.
 
 Otras tecnologías:
-- **Control de versiones:** Git y GitHub  
-- **Servidor local:** XAMPP  
-- **Diseño de prototipos:** Figma  
-- **Librerías JS:** FullCalendar, SwiperJS.
-- **APIs externas:** Google Maps, posible integración con redes sociales
+- **Control de versiones:** _Git y GitHub_  
+- **Servidor local:** _XAMPP _ 
+- **Diseño de prototipos:** _Figma _ 
+- **Librerías JS:** _FullCalendar, SwiperJS._
+- **APIs externas:** _Google Maps,_ posible integración con redes sociales
 
 ## Ejemplo de estructura básica de código:
 ```html
